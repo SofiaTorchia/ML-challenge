@@ -1,5 +1,5 @@
 # Machine Learning Challenge
-Machine Learning course 2021-2022.<br>
+Machine Learning course 2021-2022, Computer Science Department.<br>
 Masters' Degree in Applied Mathematics, 
 Sapienza University of Rome. <br>
 Exam date: June 13th 2022
